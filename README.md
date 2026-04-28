@@ -1,4 +1,4 @@
-# lending-2
-XML Про
+# Лендинг XML-Pro
 
-https://s1dm4n.github.io/lending-2/
+Сайт - https://xml.pgpf.ru/
+Github Pages - https://s1dm4n.github.io/lending-2/
